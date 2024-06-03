@@ -1,0 +1,42 @@
+body,h1,ul,li{
+    margin: 0;
+    padding: 0;
+}
+#sayfa{
+	background: ghostwhite;
+}
+#ust{
+	height: 170px;
+	background: navy;
+}
+#baslik{
+	float: left;
+	margin-left: 30px;
+	margin-top: 45px;
+    font-size: 1.2em;
+    color: white;
+    text-decoration: none;
+}
+ 
+#menu{
+    float: left;
+    list-style: none;
+    margin-top: 2.5em;
+	background: darkgray;
+	width: 1450px;
+	height: 32px;
+}
+ 
+#menu li{
+    float: left;
+}
+ 
+#menu li a{
+    color: white;
+    text-decoration: none;
+	margin-right: 20px;
+	margin-left: 10px;
+}
+#hakkimizda{
+    background: white;
+}
